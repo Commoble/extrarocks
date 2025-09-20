@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:graanite",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:chiseled_graanite_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:graanite",
+  "result": {
+    "count": 2,
+    "id": "extrarocks:graanite_slab"
+  }
+}

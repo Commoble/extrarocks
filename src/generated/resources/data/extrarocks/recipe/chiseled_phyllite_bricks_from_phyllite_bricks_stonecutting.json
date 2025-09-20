@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:phyllite_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:chiseled_phyllite_bricks"
+  }
+}

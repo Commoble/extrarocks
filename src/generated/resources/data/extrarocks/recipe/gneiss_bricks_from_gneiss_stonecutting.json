@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:gneiss",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:gneiss_bricks"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:mossy_cobbled_rhyolite"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_cobbled_rhyolite_button"
+  }
+}

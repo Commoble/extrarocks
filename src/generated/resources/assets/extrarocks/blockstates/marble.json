@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/marble"
+      },
+      {
+        "model": "extrarocks:block/marble_mirrored"
+      },
+      {
+        "model": "extrarocks:block/marble",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/marble_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

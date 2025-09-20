@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:schist_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:schist_brick_button"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "extrarocks:block/schist",
+    "side": "extrarocks:block/schist",
+    "top": "extrarocks:block/schist"
+  }
+}

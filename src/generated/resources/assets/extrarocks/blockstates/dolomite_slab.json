@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/dolomite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/dolomite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/dolomite_slab_top"
+    }
+  }
+}

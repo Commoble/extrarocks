@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/shale_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/shale"
+    },
+    "type=top": {
+      "model": "extrarocks:block/shale_slab_top"
+    }
+  }
+}

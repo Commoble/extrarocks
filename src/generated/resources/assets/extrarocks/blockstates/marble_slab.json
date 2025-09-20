@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/marble_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/marble"
+    },
+    "type=top": {
+      "model": "extrarocks:block/marble_slab_top"
+    }
+  }
+}

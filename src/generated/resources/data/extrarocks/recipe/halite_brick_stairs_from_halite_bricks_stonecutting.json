@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:halite_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:halite_brick_stairs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:andeezite_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:andeezite_brick_button"
+  }
+}

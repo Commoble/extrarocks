@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:halite",
+  "result": {
+    "count": 2,
+    "id": "extrarocks:halite_slab"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone/extrarocks/dolomite",
+    "side": "minecraft:block/cobblestone/extrarocks/dolomite",
+    "top": "minecraft:block/cobblestone/extrarocks/dolomite"
+  }
+}

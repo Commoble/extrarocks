@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/smooth_baasalt_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/smooth_baasalt_slab_double"
+    },
+    "type=top": {
+      "model": "extrarocks:block/smooth_baasalt_slab_top"
+    }
+  }
+}

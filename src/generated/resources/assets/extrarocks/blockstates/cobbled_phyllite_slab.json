@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/cobbled_phyllite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/cobbled_phyllite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/cobbled_phyllite_slab_top"
+    }
+  }
+}

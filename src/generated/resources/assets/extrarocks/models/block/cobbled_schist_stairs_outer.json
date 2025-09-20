@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone/extrarocks/schist",
+    "side": "minecraft:block/cobblestone/extrarocks/schist",
+    "top": "minecraft:block/cobblestone/extrarocks/schist"
+  }
+}

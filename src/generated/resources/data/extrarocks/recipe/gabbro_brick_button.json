@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:gabbro_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:gabbro_brick_button"
+  }
+}

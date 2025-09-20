@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:baasalt_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:baasalt_brick_wall"
+  }
+}

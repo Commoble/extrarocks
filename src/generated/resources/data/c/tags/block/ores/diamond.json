@@ -1,0 +1,20 @@
+{
+  "values": [
+    "extrarocks:doirite_diamond_ore",
+    "extrarocks:gabbro_diamond_ore",
+    "extrarocks:graanite_diamond_ore",
+    "extrarocks:andeezite_diamond_ore",
+    "extrarocks:baasalt_diamond_ore",
+    "extrarocks:rhyolite_diamond_ore",
+    "extrarocks:gneiss_diamond_ore",
+    "extrarocks:marble_diamond_ore",
+    "extrarocks:phyllite_diamond_ore",
+    "extrarocks:schist_diamond_ore",
+    "extrarocks:slate_diamond_ore",
+    "extrarocks:chert_diamond_ore",
+    "extrarocks:dolomite_diamond_ore",
+    "extrarocks:halite_diamond_ore",
+    "extrarocks:limestone_diamond_ore",
+    "extrarocks:shale_diamond_ore"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:marble"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:marble_button"
+  }
+}

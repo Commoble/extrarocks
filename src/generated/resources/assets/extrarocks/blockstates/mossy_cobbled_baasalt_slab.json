@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_cobbled_baasalt_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_cobbled_baasalt"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_cobbled_baasalt_slab_top"
+    }
+  }
+}

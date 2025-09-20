@@ -1,0 +1,20 @@
+{
+  "values": [
+    "extrarocks:doirite_coal_ore",
+    "extrarocks:gabbro_coal_ore",
+    "extrarocks:graanite_coal_ore",
+    "extrarocks:andeezite_coal_ore",
+    "extrarocks:baasalt_coal_ore",
+    "extrarocks:rhyolite_coal_ore",
+    "extrarocks:gneiss_coal_ore",
+    "extrarocks:marble_coal_ore",
+    "extrarocks:phyllite_coal_ore",
+    "extrarocks:schist_coal_ore",
+    "extrarocks:slate_coal_ore",
+    "extrarocks:chert_coal_ore",
+    "extrarocks:dolomite_coal_ore",
+    "extrarocks:halite_coal_ore",
+    "extrarocks:limestone_coal_ore",
+    "extrarocks:shale_coal_ore"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:doirite",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:doirite_brick_wall"
+  }
+}

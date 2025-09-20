@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/smooth_stone/extrarocks/andeezite",
+    "side": "minecraft:block/smooth_stone_slab_side/extrarocks/andeezite",
+    "top": "minecraft:block/smooth_stone/extrarocks/andeezite"
+  }
+}

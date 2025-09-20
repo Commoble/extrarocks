@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_cobbled_rhyolite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_cobbled_rhyolite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_cobbled_rhyolite_slab_top"
+    }
+  }
+}

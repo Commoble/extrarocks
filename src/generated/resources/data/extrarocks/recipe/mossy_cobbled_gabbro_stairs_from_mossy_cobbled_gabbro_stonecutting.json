@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:mossy_cobbled_gabbro",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_cobbled_gabbro_stairs"
+  }
+}

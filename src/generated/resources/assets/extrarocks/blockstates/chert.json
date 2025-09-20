@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/chert"
+      },
+      {
+        "model": "extrarocks:block/chert_mirrored"
+      },
+      {
+        "model": "extrarocks:block/chert",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/chert_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

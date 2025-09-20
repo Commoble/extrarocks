@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_shale_brick_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_shale_bricks"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_shale_brick_slab_top"
+    }
+  }
+}

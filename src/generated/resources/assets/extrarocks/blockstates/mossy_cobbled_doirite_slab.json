@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_cobbled_doirite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_cobbled_doirite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_cobbled_doirite_slab_top"
+    }
+  }
+}

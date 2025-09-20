@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone/extrarocks/rhyolite",
+    "side": "minecraft:block/cobblestone/extrarocks/rhyolite",
+    "top": "minecraft:block/cobblestone/extrarocks/rhyolite"
+  }
+}

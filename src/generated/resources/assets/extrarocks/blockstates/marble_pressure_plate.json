@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "extrarocks:block/marble_pressure_plate"
+    },
+    "powered=true": {
+      "model": "extrarocks:block/marble_pressure_plate_down"
+    }
+  }
+}

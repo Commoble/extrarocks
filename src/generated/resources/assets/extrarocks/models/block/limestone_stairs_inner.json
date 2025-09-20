@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "extrarocks:block/limestone",
+    "side": "extrarocks:block/limestone",
+    "top": "extrarocks:block/limestone"
+  }
+}

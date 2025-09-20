@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:mossy_chert_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_chert_brick_stairs"
+  }
+}

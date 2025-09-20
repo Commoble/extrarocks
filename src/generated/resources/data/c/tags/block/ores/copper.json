@@ -1,0 +1,20 @@
+{
+  "values": [
+    "extrarocks:doirite_copper_ore",
+    "extrarocks:gabbro_copper_ore",
+    "extrarocks:graanite_copper_ore",
+    "extrarocks:andeezite_copper_ore",
+    "extrarocks:baasalt_copper_ore",
+    "extrarocks:rhyolite_copper_ore",
+    "extrarocks:gneiss_copper_ore",
+    "extrarocks:marble_copper_ore",
+    "extrarocks:phyllite_copper_ore",
+    "extrarocks:schist_copper_ore",
+    "extrarocks:slate_copper_ore",
+    "extrarocks:chert_copper_ore",
+    "extrarocks:dolomite_copper_ore",
+    "extrarocks:halite_copper_ore",
+    "extrarocks:limestone_copper_ore",
+    "extrarocks:shale_copper_ore"
+  ]
+}

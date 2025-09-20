@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minecraft:block/cobblestone/extrarocks/phyllite",
+    "side": "minecraft:block/cobblestone/extrarocks/phyllite",
+    "top": "minecraft:block/cobblestone/extrarocks/phyllite"
+  }
+}

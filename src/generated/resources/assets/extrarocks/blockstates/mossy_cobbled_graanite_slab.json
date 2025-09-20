@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_cobbled_graanite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_cobbled_graanite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_cobbled_graanite_slab_top"
+    }
+  }
+}

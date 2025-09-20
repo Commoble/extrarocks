@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/schist_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/schist"
+    },
+    "type=top": {
+      "model": "extrarocks:block/schist_slab_top"
+    }
+  }
+}

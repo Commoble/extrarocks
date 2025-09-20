@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:chert_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:chert_brick_button"
+  }
+}

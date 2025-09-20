@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:dolomite"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:dolomite_button"
+  }
+}

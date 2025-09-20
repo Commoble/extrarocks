@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:slate_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:slate_brick_button"
+  }
+}

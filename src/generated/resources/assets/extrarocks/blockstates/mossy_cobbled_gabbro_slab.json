@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_cobbled_gabbro_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_cobbled_gabbro"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_cobbled_gabbro_slab_top"
+    }
+  }
+}

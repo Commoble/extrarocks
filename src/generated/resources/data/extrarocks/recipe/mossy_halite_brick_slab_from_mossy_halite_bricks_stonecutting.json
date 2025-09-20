@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:mossy_halite_bricks",
+  "result": {
+    "count": 2,
+    "id": "extrarocks:mossy_halite_brick_slab"
+  }
+}

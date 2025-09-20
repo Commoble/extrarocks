@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/phyllite"
+      },
+      {
+        "model": "extrarocks:block/phyllite_mirrored"
+      },
+      {
+        "model": "extrarocks:block/phyllite",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/phyllite_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

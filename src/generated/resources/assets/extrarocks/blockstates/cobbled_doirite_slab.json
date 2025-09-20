@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/cobbled_doirite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/cobbled_doirite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/cobbled_doirite_slab_top"
+    }
+  }
+}

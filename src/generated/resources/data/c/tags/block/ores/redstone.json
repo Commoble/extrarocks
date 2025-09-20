@@ -1,0 +1,20 @@
+{
+  "values": [
+    "extrarocks:doirite_redstone_ore",
+    "extrarocks:gabbro_redstone_ore",
+    "extrarocks:graanite_redstone_ore",
+    "extrarocks:andeezite_redstone_ore",
+    "extrarocks:baasalt_redstone_ore",
+    "extrarocks:rhyolite_redstone_ore",
+    "extrarocks:gneiss_redstone_ore",
+    "extrarocks:marble_redstone_ore",
+    "extrarocks:phyllite_redstone_ore",
+    "extrarocks:schist_redstone_ore",
+    "extrarocks:slate_redstone_ore",
+    "extrarocks:chert_redstone_ore",
+    "extrarocks:dolomite_redstone_ore",
+    "extrarocks:halite_redstone_ore",
+    "extrarocks:limestone_redstone_ore",
+    "extrarocks:shale_redstone_ore"
+  ]
+}

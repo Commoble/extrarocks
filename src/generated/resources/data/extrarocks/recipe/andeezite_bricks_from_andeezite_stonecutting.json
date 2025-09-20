@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:andeezite",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:andeezite_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:slate",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:slate_stairs"
+  }
+}

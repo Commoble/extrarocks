@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:slate_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:chiseled_slate_bricks"
+  }
+}

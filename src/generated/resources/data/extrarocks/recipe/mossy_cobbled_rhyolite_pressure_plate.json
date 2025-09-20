@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "extrarocks:mossy_cobbled_rhyolite"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_cobbled_rhyolite_pressure_plate"
+  }
+}

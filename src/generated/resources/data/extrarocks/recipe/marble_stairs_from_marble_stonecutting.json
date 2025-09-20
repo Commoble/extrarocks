@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:marble",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:marble_stairs"
+  }
+}

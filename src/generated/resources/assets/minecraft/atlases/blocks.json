@@ -1,0 +1,1500 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/cobblestone/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/mossy_cobblestone/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/stone_bricks/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/cracked_stone_bricks/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/mossy_stone_bricks/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/smooth_stone_slab_side/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/smooth_stone/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/doirite": "extrarocks:permutations/chiseled_stone_bricks/doirite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/cobblestone/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/mossy_cobblestone/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/stone_bricks/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/cracked_stone_bricks/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/mossy_stone_bricks/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/smooth_stone_slab_side/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/smooth_stone/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/gabbro": "extrarocks:permutations/chiseled_stone_bricks/gabbro"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/cobblestone/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/mossy_cobblestone/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/stone_bricks/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/cracked_stone_bricks/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/mossy_stone_bricks/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/smooth_stone_slab_side/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/smooth_stone/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/graanite": "extrarocks:permutations/chiseled_stone_bricks/graanite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/cobblestone/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/mossy_cobblestone/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/stone_bricks/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/cracked_stone_bricks/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/mossy_stone_bricks/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/smooth_stone_slab_side/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/smooth_stone/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/andeezite": "extrarocks:permutations/chiseled_stone_bricks/andeezite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/cobblestone/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/mossy_cobblestone/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/stone_bricks/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/cracked_stone_bricks/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/mossy_stone_bricks/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/smooth_stone_slab_side/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/smooth_stone/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/baasalt": "extrarocks:permutations/chiseled_stone_bricks/baasalt"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/cobblestone/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/mossy_cobblestone/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/stone_bricks/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/cracked_stone_bricks/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/mossy_stone_bricks/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/smooth_stone_slab_side/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/smooth_stone/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/rhyolite": "extrarocks:permutations/chiseled_stone_bricks/rhyolite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/cobblestone/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/mossy_cobblestone/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/stone_bricks/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/cracked_stone_bricks/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/mossy_stone_bricks/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/smooth_stone_slab_side/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/smooth_stone/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/gneiss": "extrarocks:permutations/chiseled_stone_bricks/gneiss"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/cobblestone/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/mossy_cobblestone/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/stone_bricks/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/cracked_stone_bricks/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/mossy_stone_bricks/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/smooth_stone_slab_side/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/smooth_stone/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/marble": "extrarocks:permutations/chiseled_stone_bricks/marble"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/cobblestone/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/mossy_cobblestone/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/stone_bricks/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/cracked_stone_bricks/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/mossy_stone_bricks/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/smooth_stone_slab_side/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/smooth_stone/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/phyllite": "extrarocks:permutations/chiseled_stone_bricks/phyllite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/cobblestone/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/mossy_cobblestone/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/stone_bricks/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/cracked_stone_bricks/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/mossy_stone_bricks/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/smooth_stone_slab_side/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/smooth_stone/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/schist": "extrarocks:permutations/chiseled_stone_bricks/schist"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/cobblestone/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/mossy_cobblestone/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/stone_bricks/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/cracked_stone_bricks/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/mossy_stone_bricks/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/smooth_stone_slab_side/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/smooth_stone/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/slate": "extrarocks:permutations/chiseled_stone_bricks/slate"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/cobblestone/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/mossy_cobblestone/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/stone_bricks/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/cracked_stone_bricks/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/mossy_stone_bricks/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/smooth_stone_slab_side/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/smooth_stone/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/chert": "extrarocks:permutations/chiseled_stone_bricks/chert"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/cobblestone/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/mossy_cobblestone/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/stone_bricks/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/cracked_stone_bricks/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/mossy_stone_bricks/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/smooth_stone_slab_side/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/smooth_stone/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/dolomite": "extrarocks:permutations/chiseled_stone_bricks/dolomite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/cobblestone/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/mossy_cobblestone/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/stone_bricks/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/cracked_stone_bricks/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/mossy_stone_bricks/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/smooth_stone_slab_side/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/smooth_stone/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/halite": "extrarocks:permutations/chiseled_stone_bricks/halite"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/cobblestone/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/mossy_cobblestone/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/stone_bricks/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/cracked_stone_bricks/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/mossy_stone_bricks/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/smooth_stone_slab_side/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/smooth_stone/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/limestone": "extrarocks:permutations/chiseled_stone_bricks/limestone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cobblestone",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/cobblestone/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_cobblestone",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/mossy_cobblestone/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_cobblestone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/stone_bricks",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/stone_bricks/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/cracked_stone_bricks",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/cracked_stone_bricks/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/cracked_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/mossy_stone_bricks",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/mossy_stone_bricks/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/mossy_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone_slab_side",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/smooth_stone_slab_side/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone_slab_side"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/smooth_stone",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/smooth_stone/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/smooth_stone"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/chiseled_stone_bricks",
+      "permutations": {
+        "extrarocks/shale": "extrarocks:permutations/chiseled_stone_bricks/shale"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/chiseled_stone_bricks"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/coal",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/coal"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/coal_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/iron",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/iron"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/iron_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/redstone",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/redstone"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/redstone_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/gold",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/gold"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/gold_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/diamond",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/diamond"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/diamond_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/lapis",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/lapis"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/lapis_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/emerald",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/emerald"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/emerald_ore"
+      ]
+    },
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "extrarocks:palette_keys/copper",
+      "permutations": {
+        "extrarocks/ore_overlay": "extrarocks:permutations/ore_overlays/copper"
+      },
+      "separator": "/",
+      "textures": [
+        "minecraft:block/copper_ore"
+      ]
+    }
+  ]
+}

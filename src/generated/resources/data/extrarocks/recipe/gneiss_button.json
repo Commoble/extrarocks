@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:gneiss"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:gneiss_button"
+  }
+}

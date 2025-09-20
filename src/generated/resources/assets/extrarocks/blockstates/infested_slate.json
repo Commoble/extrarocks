@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/slate"
+      },
+      {
+        "model": "extrarocks:block/slate_mirrored"
+      },
+      {
+        "model": "extrarocks:block/slate",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/slate_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

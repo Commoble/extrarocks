@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:mossy_cobbled_slate",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_cobbled_slate_stairs"
+  }
+}

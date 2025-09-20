@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/halite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/halite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/halite_slab_top"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/gabbro"
+      },
+      {
+        "model": "extrarocks:block/gabbro_mirrored"
+      },
+      {
+        "model": "extrarocks:block/gabbro",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/gabbro_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

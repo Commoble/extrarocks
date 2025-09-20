@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/halite"
+      },
+      {
+        "model": "extrarocks:block/halite_mirrored"
+      },
+      {
+        "model": "extrarocks:block/halite",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/halite_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/cobbled_rhyolite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/cobbled_rhyolite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/cobbled_rhyolite_slab_top"
+    }
+  }
+}

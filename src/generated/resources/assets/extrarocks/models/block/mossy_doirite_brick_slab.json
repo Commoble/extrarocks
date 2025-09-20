@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/mossy_stone_bricks/extrarocks/doirite",
+    "side": "minecraft:block/mossy_stone_bricks/extrarocks/doirite",
+    "top": "minecraft:block/mossy_stone_bricks/extrarocks/doirite"
+  }
+}

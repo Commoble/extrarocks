@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "extrarocks:block/dolomite",
+    "side": "extrarocks:block/dolomite",
+    "top": "extrarocks:block/dolomite"
+  }
+}

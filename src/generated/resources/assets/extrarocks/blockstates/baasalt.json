@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/baasalt"
+      },
+      {
+        "model": "extrarocks:block/baasalt_mirrored"
+      },
+      {
+        "model": "extrarocks:block/baasalt",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/baasalt_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

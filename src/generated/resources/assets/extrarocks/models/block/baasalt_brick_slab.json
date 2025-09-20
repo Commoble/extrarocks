@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/stone_bricks/extrarocks/baasalt",
+    "side": "minecraft:block/stone_bricks/extrarocks/baasalt",
+    "top": "minecraft:block/stone_bricks/extrarocks/baasalt"
+  }
+}

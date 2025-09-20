@@ -1,0 +1,20 @@
+{
+  "values": [
+    "extrarocks:doirite_iron_ore",
+    "extrarocks:gabbro_iron_ore",
+    "extrarocks:graanite_iron_ore",
+    "extrarocks:andeezite_iron_ore",
+    "extrarocks:baasalt_iron_ore",
+    "extrarocks:rhyolite_iron_ore",
+    "extrarocks:gneiss_iron_ore",
+    "extrarocks:marble_iron_ore",
+    "extrarocks:phyllite_iron_ore",
+    "extrarocks:schist_iron_ore",
+    "extrarocks:slate_iron_ore",
+    "extrarocks:chert_iron_ore",
+    "extrarocks:dolomite_iron_ore",
+    "extrarocks:halite_iron_ore",
+    "extrarocks:limestone_iron_ore",
+    "extrarocks:shale_iron_ore"
+  ]
+}

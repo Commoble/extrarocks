@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:mossy_graanite_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_graanite_brick_stairs"
+  }
+}

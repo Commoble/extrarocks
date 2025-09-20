@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:smooth_doirite",
+  "result": {
+    "count": 2,
+    "id": "extrarocks:smooth_doirite_slab"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:cobbled_chert",
+  "result": {
+    "count": 2,
+    "id": "extrarocks:cobbled_chert_slab"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "extrarocks:block/ore_template",
+  "textures": {
+    "ore": "minecraft:block/copper_ore/extrarocks/ore_overlay",
+    "rock": "extrarocks:block/graanite"
+  }
+}

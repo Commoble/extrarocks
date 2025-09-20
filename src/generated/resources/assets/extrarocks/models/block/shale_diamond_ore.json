@@ -1,0 +1,7 @@
+{
+  "parent": "extrarocks:block/ore_template",
+  "textures": {
+    "ore": "minecraft:block/diamond_ore/extrarocks/ore_overlay",
+    "rock": "extrarocks:block/shale"
+  }
+}

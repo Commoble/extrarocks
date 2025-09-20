@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "extrarocks:block/andeezite",
+    "side": "extrarocks:block/andeezite",
+    "top": "extrarocks:block/andeezite"
+  }
+}

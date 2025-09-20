@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/smooth_stone/extrarocks/gabbro",
+    "side": "minecraft:block/smooth_stone_slab_side/extrarocks/gabbro",
+    "top": "minecraft:block/smooth_stone/extrarocks/gabbro"
+  }
+}

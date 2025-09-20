@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "extrarocks:cobbled_graanite",
+    "minecraft:vine"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:mossy_cobbled_graanite"
+  }
+}

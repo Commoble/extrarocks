@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/mossy_cobbled_phyllite_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/mossy_cobbled_phyllite"
+    },
+    "type=top": {
+      "model": "extrarocks:block/mossy_cobbled_phyllite_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/cobbled_gneiss_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/cobbled_gneiss"
+    },
+    "type=top": {
+      "model": "extrarocks:block/cobbled_gneiss_slab_top"
+    }
+  }
+}

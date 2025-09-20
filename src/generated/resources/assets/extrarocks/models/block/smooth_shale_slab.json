@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/smooth_stone/extrarocks/shale",
+    "side": "minecraft:block/smooth_stone_slab_side/extrarocks/shale",
+    "top": "minecraft:block/smooth_stone/extrarocks/shale"
+  }
+}

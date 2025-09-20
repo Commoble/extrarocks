@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/schist"
+      },
+      {
+        "model": "extrarocks:block/schist_mirrored"
+      },
+      {
+        "model": "extrarocks:block/schist",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/schist_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

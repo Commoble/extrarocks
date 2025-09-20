@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:phyllite"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:phyllite_button"
+  }
+}

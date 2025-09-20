@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minecraft:block/mossy_cobblestone/extrarocks/graanite",
+    "side": "minecraft:block/mossy_cobblestone/extrarocks/graanite",
+    "top": "minecraft:block/mossy_cobblestone/extrarocks/graanite"
+  }
+}

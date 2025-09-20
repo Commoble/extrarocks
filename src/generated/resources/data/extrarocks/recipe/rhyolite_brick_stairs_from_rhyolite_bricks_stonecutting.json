@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:rhyolite_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:rhyolite_brick_stairs"
+  }
+}

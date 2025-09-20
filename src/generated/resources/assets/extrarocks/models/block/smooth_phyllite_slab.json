@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/smooth_stone/extrarocks/phyllite",
+    "side": "minecraft:block/smooth_stone_slab_side/extrarocks/phyllite",
+    "top": "minecraft:block/smooth_stone/extrarocks/phyllite"
+  }
+}

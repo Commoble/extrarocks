@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:cobbled_graanite",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:cobbled_graanite_stairs"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/graanite"
+      },
+      {
+        "model": "extrarocks:block/graanite_mirrored"
+      },
+      {
+        "model": "extrarocks:block/graanite",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/graanite_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

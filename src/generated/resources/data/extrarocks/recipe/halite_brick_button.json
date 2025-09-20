@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:halite_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:halite_brick_button"
+  }
+}

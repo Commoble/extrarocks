@@ -1,0 +1,20 @@
+{
+  "values": [
+    "extrarocks:doirite_gold_ore",
+    "extrarocks:gabbro_gold_ore",
+    "extrarocks:graanite_gold_ore",
+    "extrarocks:andeezite_gold_ore",
+    "extrarocks:baasalt_gold_ore",
+    "extrarocks:rhyolite_gold_ore",
+    "extrarocks:gneiss_gold_ore",
+    "extrarocks:marble_gold_ore",
+    "extrarocks:phyllite_gold_ore",
+    "extrarocks:schist_gold_ore",
+    "extrarocks:slate_gold_ore",
+    "extrarocks:chert_gold_ore",
+    "extrarocks:dolomite_gold_ore",
+    "extrarocks:halite_gold_ore",
+    "extrarocks:limestone_gold_ore",
+    "extrarocks:shale_gold_ore"
+  ]
+}

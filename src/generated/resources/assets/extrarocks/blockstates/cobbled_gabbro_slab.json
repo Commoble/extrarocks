@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/cobbled_gabbro_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/cobbled_gabbro"
+    },
+    "type=top": {
+      "model": "extrarocks:block/cobbled_gabbro_slab_top"
+    }
+  }
+}

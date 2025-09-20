@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:cobbled_baasalt"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:cobbled_baasalt_button"
+  }
+}

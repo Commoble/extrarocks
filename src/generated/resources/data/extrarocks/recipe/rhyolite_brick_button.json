@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "extrarocks:rhyolite_bricks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "extrarocks:rhyolite_brick_button"
+  }
+}

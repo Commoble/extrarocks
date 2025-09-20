@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:cobbled_doirite",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:cobbled_doirite_stairs"
+  }
+}

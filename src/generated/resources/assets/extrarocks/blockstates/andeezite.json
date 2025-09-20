@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "extrarocks:block/andeezite"
+      },
+      {
+        "model": "extrarocks:block/andeezite_mirrored"
+      },
+      {
+        "model": "extrarocks:block/andeezite",
+        "y": 180
+      },
+      {
+        "model": "extrarocks:block/andeezite_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

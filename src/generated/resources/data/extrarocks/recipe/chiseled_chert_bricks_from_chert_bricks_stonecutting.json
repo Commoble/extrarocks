@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:chert_bricks",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:chiseled_chert_bricks"
+  }
+}

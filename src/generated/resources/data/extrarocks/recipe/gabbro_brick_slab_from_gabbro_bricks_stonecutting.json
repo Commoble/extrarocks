@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:gabbro_bricks",
+  "result": {
+    "count": 2,
+    "id": "extrarocks:gabbro_brick_slab"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "extrarocks:cobbled_schist",
+  "result": {
+    "count": 1,
+    "id": "extrarocks:cobbled_schist_wall"
+  }
+}

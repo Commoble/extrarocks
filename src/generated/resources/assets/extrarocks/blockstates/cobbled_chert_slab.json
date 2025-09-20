@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extrarocks:block/cobbled_chert_slab"
+    },
+    "type=double": {
+      "model": "extrarocks:block/cobbled_chert"
+    },
+    "type=top": {
+      "model": "extrarocks:block/cobbled_chert_slab_top"
+    }
+  }
+}

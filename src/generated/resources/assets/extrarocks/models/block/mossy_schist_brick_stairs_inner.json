@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/mossy_stone_bricks/extrarocks/schist",
+    "side": "minecraft:block/mossy_stone_bricks/extrarocks/schist",
+    "top": "minecraft:block/mossy_stone_bricks/extrarocks/schist"
+  }
+}
